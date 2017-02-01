@@ -1,5 +1,5 @@
 # Connect 4 in React
-#![](demo.gif)
+#![](https://raw.githubusercontent.com/jeffleu/connect-4/master/images/demo.gif)
 
 ## Requirements
 * [Node.js](https://nodejs.org/) v6.x.x
